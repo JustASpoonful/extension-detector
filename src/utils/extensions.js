@@ -1,4 +1,8 @@
 const extensions = {
+  'GoGuardian': {
+    id: 'haldlgldplgnggkjaafhelgiaglafanh',
+    file: 'manifest.json',
+  },
   'AdBlock — best ad blocker': {
     id: 'gighmmpiobklfepjocnamgkkbiglidom',
     file: 'adblock-uiscripts-adblock-wizard.css',
