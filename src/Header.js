@@ -44,7 +44,7 @@ function Header({ percentage, hash }) {
       >
         <h1>Extension Detector</h1>
         <GitHubButton
-          href="https://github.com/z0ccc/extension-detector"
+          href="https://github.com/JustASpoonful/extension-detector"
           data-size="large"
           data-show-count="true"
           aria-label="Star z0ccc/extension-detector on GitHub"
@@ -59,7 +59,7 @@ function Header({ percentage, hash }) {
         browser fingerprinting. This scan only detects extensions from the
         Chrome Web Store.{' '}
         <a
-          href="https://github.com/z0ccc/extension-detector#extension-detector"
+          href="https://github.com/JustASpoonful/extension-detector/"
           target="_blank"
           rel="noreferrer"
           style={{ color: '#0069c2' }}
